@@ -3,7 +3,6 @@
     <style>
       .cls-1, .cls-2 {
         fill: #9ccb3c;
-        filter: drop-shadow(2px 2px 5px rgba(56, 129, 0, 0.82));
       }
 
       .cls-1 {
