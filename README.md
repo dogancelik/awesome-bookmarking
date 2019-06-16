@@ -1,4 +1,4 @@
-# Awesome Bookmarking
+<img src="logo.svg">
 
 | Name | Description | State | FOSS |
 | - | - | - | - |
