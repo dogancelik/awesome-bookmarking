@@ -34,4 +34,5 @@
 
 | Name | Description | Price |
 | - | - | - |
+| [BookmarkOS](https://bookmarkos.com/) | Organize, sort, and browse your bookmarks just like files on your desktop | $36/year |
 | [Dropmark](https://www.dropmark.com/) | Organize, collaborate, curate, and share online | Free or $48/year |
