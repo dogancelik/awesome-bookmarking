@@ -21,6 +21,7 @@
 | [ArchiveBox](https://archivebox.io/) | The open-source self-hosted web archive | FOSS |
 | [Diigo](https://www.diigo.com/) | Reading, annotation, highlighter, sticky notes, archiving, bookmarking | Free or $40/year |
 | [Pocket](https://getpocket.com/) | Save content from everywhere | Free or $45/year |
+| [Tefter](https://tefter.io/) | Discover, share, preserve, and organize pages from around the web | Free or $30/year |
 | [Wallabag](https://wallabag.org/en) | Save, classify articles and read them later | FOSS |
 
 # All in One Bookmarking
