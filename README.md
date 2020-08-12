@@ -6,6 +6,7 @@
 | - | - | - |
 | [Larder](https://larder.io/) | Bookmarking for developers | $24/year |
 | [Pinboard](https://pinboard.in/) | Social bookmarking for introverts | $11/year or $25/year |
+| [Bort](https://bort.io/) | A bookmarking app with tags that syncs to Dropbox | Free |
 
 # New Tab Bookmarking
 
