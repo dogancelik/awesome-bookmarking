@@ -6,7 +6,9 @@
 | - | - | - |
 | [booky.io](https://booky.io/) | Online bookmark manager | Free |
 | [Bort](https://bort.io/) | A bookmarking app with tags that syncs to Dropbox | Free |
+| [Floccus](https://floccus.org/) | Sync your bookmarks privately across browsers and devices | FOSS |
 | [Larder](https://larder.io/) | Bookmarking for developers | $24/year |
+| [Linkding](https://github.com/sissbruecker/linkding) | A bookmark service that you can host yourself | FOSS |
 | [Pinboard](https://pinboard.in/) | Social bookmarking for introverts | $11/year or $25/year |
 | [Saved.io](https://saved.io/) | The fastest way to save links in the cloud | Free |
 
@@ -14,6 +16,7 @@
 
 | Name | Description | Price |
 | - | - | - |
+| [Atavi](https://atavi.com/) | Bookmark the websites, group them and sync them with any device or browser | Free |
 | [Bookmark Ninja](https://www.bookmarkninja.com/) | The ultimate online bookmark manager and organizer | $24/year |
 | [Papaly](https://papaly.com/) | Personalized social bookmarking | Free |
 | [Qlearly](https://qlearly.com/) | A modern bookmarks and tabs manager | Free or $36/year |
@@ -44,3 +47,10 @@
 | - | - | - |
 | [BookmarkOS](https://bookmarkos.com/) | Organize, sort, and browse your bookmarks just like files on your desktop | $36/year |
 | [Dropmark](https://www.dropmark.com/) | Organize, collaborate, curate, and share online | Free or $48/year |
+
+# Bookmarking with Command-line Programs
+
+| Name | Description | Price |
+| - | - | - |
+| [Buku](https://github.com/jarun/buku) | Personal mini-web in text | FOSS |
+| [Foxmarks](https://github.com/zer0-x/foxmarks) |  A read-only CLI for Firefox's bookmarks and history | FOSS |
