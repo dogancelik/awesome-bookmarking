@@ -9,8 +9,10 @@
 | [Floccus](https://floccus.org/) | Sync your bookmarks privately across browsers and devices | FOSS |
 | [Larder](https://larder.io/) | Bookmarking for developers | $24/year |
 | [Linkding](https://github.com/sissbruecker/linkding) | A bookmark service that you can host yourself | FOSS |
+| [Linkhut](https://ln.ht/) | A social bookmarking website with no tracking/ads, import/export, RSS feeds, REST-like API | FOSS |
 | [Pinboard](https://pinboard.in/) | Social bookmarking for introverts | $11/year or $25/year |
 | [Saved.io](https://saved.io/) | The fastest way to save links in the cloud | Free |
+| [Shaarli](https://github.com/shaarli/Shaarli) | A personal, minimalist, super-fast, database free, bookmarking service | FOSS |
 
 # New Tab Bookmarking
 
@@ -30,7 +32,9 @@
 | [Diigo](https://www.diigo.com/) | Reading, annotation, highlighter, sticky notes, archiving, bookmarking | Free or $40/year |
 | [LinkAce](https://www.linkace.org/) | Self hosted archive to store and organize links of your favorite websites | FOSS |
 | [LinkLocker](https://linklocker.co/) | A lightweight bookmarking service with an emphasis on privacy | $12/year |
+| [Notado](https://notado.app/) | Content-focused bookmarking with searchable text and automatic tags | $24/year |
 | [Pocket](https://getpocket.com/) | Save content from everywhere | Free or $45/year |
+| [Shiori](https://github.com/go-shiori/shiori) | A simple bookmarks manager, intended as a simple clone of Pocket | FOSS |
 | [Tefter](https://tefter.io/) | Discover, share, preserve, and organize pages from around the web | Free or $30/year |
 | [Wallabag](https://wallabag.org/en) | Save, classify articles and read them later | FOSS |
 
