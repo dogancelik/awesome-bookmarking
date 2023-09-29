@@ -42,6 +42,7 @@
 
 | Name | Description | Price |
 | - | - | - |
+| [Linkwarden](https://github.com/linkwarden/linkwarden) | Self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages | Free or $4/month |
 | [Notion](https://www.notion.so/) | Write, plan, collaborate, and get organized | Free or $48/year |
 | [Raindrop](https://raindrop.io/) | For your inspiration, read later, media and stuff | Free or $28/year |
 
