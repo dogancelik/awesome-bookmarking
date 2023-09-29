@@ -58,3 +58,4 @@
 | - | - | - |
 | [Buku](https://github.com/jarun/buku) | Personal mini-web in text | FOSS |
 | [Foxmarks](https://github.com/zer0-x/foxmarks) |  A read-only CLI for Firefox's bookmarks and history | FOSS |
+| [FZF-Raindrop](https://github.com/thenbe/fzf-raindrop) | Fast search through all your Raindrop bookmarks | FOSS  |
