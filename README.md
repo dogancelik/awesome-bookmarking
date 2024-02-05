@@ -13,6 +13,7 @@
 | [Pinboard](https://pinboard.in/) | Social bookmarking for introverts | $11/year or $25/year |
 | [Saved.io](https://saved.io/) | The fastest way to save links in the cloud | Free |
 | [Shaarli](https://github.com/shaarli/Shaarli) | A personal, minimalist, super-fast, database free, bookmarking service | FOSS |
+| [Sudopad](https://sudopad.com/) | Personal link sharing for friends | Free |
 
 # New Tab Bookmarking
 
