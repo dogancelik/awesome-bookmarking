@@ -30,6 +30,7 @@
 | Name | Description | Price |
 | - | - | - |
 | [ArchiveBox](https://archivebox.io/) | The open-source self-hosted web archive | FOSS |
+| [Burn 451](https://www.burn451.cloud) | Read-later app with a 24-hour save deadline and open-source MCP server | Free or $4.99/month |
 | [Diigo](https://www.diigo.com/) | Reading, annotation, highlighter, sticky notes, archiving, bookmarking | Free or $40/year |
 | [LinkAce](https://www.linkace.org/) | Self hosted archive to store and organize links of your favorite websites | FOSS |
 | [LinkLocker](https://linklocker.co/) | A lightweight bookmarking service with an emphasis on privacy | $12/year |
