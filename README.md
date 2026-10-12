@@ -47,6 +47,7 @@
 | [Notion](https://www.notion.so/) | Write, plan, collaborate, and get organized | Free or $48/year |
 | [Raindrop](https://raindrop.io/) | For your inspiration, read later, media and stuff | Free or $28/year |
 | [Karakeep](https://github.com/karakeep-app/karakeep) | A self-hostable bookmark-everything app with automatic tagging and full text search | FOSS |
+| [Orano](https://oranoai.com/) | Save Reels, videos, and links and turn them into projects with summaries, action plans, and learning roadmaps; iOS and Android | Free app with optional Pro subscription |
 
 # Visual Organization
 
