@@ -12,6 +12,7 @@
 | [Linkding](https://github.com/sissbruecker/linkding) | A bookmark service that you can host yourself | FOSS |
 | [Linkhut](https://ln.ht/) | A social bookmarking website with no tracking/ads, import/export, RSS feeds, REST-like API | FOSS |
 | [Pinboard](https://pinboard.in/) | Social bookmarking for introverts | $11/year or $25/year |
+| [Readdit Later](https://readditlater.com/) | Searchable library for your Reddit saved posts and comments, with collections and exports | Free or $5.99/month |
 | [Saved.io](https://saved.io/) | The fastest way to save links in the cloud | Free |
 | [Shaarli](https://github.com/shaarli/Shaarli) | A personal, minimalist, super-fast, database free, bookmarking service | FOSS |
 
