@@ -47,6 +47,7 @@
 | [Notion](https://www.notion.so/) | Write, plan, collaborate, and get organized | Free or $48/year |
 | [Raindrop](https://raindrop.io/) | For your inspiration, read later, media and stuff | Free or $28/year |
 | [Karakeep](https://github.com/karakeep-app/karakeep) | A self-hostable bookmark-everything app with automatic tagging and full text search | FOSS |
+| [Linkit](https://github.com/blue-idea/linkit) | Desktop bookmark manager with AI summaries, semantic search, and optional self-hosted sync | Free |
 
 # Visual Organization
 
