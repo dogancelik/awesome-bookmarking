@@ -31,6 +31,7 @@
 | - | - | - |
 | [ArchiveBox](https://archivebox.io/) | The open-source self-hosted web archive | FOSS |
 | [Diigo](https://www.diigo.com/) | Reading, annotation, highlighter, sticky notes, archiving, bookmarking | Free or $40/year |
+| [Glasp](https://glasp.co/) | Highlighter for web pages, PDFs and YouTube videos, Kindle highlights import, export to Markdown, Notion, Obsidian and Roam | Free plan |
 | [LinkAce](https://www.linkace.org/) | Self hosted archive to store and organize links of your favorite websites | FOSS |
 | [LinkLocker](https://linklocker.co/) | A lightweight bookmarking service with an emphasis on privacy | $12/year |
 | [Notado](https://notado.app/) | Content-focused bookmarking with searchable text and automatic tags | $24/year |
