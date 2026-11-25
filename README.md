@@ -23,6 +23,7 @@
 | [Bookmark Ninja](https://www.bookmarkninja.com/) | The ultimate online bookmark manager and organizer | $24/year |
 | [Papaly](https://papaly.com/) | Personalized social bookmarking | Free |
 | [Qlearly](https://qlearly.com/) | A modern bookmarks and tabs manager | Free or $36/year |
+| [Stackboard](https://getstackboard.com/) | Your Chrome bookmarks as a board of stacks on the new tab, open source | Free, optional Pro |
 | [Start.me](https://start.me/) | Save time accessing the websites you visit every day | Free or $20/year |
 
 # Bookmarking for Archival Purposes
